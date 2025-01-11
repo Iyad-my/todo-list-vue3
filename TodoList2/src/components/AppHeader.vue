@@ -21,7 +21,7 @@ header {
         background-color: #fff;
     }
 }
-header : :after {
+header :after {
     content: "";
     display: block;
     height: 1px;
